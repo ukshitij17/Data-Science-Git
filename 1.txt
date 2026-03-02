@@ -1,4 +1,1 @@
 This is 1.txt
-
-These are the changes for initial commit, hope you approve them.
-
